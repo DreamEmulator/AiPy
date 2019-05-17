@@ -5,6 +5,7 @@
 2: Open a Terminal (bottom of the screen)
 
 3: Download files by copy pasting this command and pressing enter:
+
 `git clone https://github.com/DreamEmulator/AiPy`
 
 4: Now look in the Project files on the left for the file start_server.py in the folder server
