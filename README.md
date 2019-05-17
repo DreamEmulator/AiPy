@@ -1,6 +1,6 @@
 # How to start AiPy
 
-1: Make a newproject in PyCharm
+1: Make a newp roject in PyCharm
 
 2: Open a Terminal (bottom of the screen)
 
