@@ -47,8 +47,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="15">
-                <caret line="1" column="66" selection-start-line="1" selection-start-column="66" selection-end-line="1" selection-end-column="66" />
+              <first_editor relative-caret-position="300">
+                <caret line="20" selection-start-line="20" selection-end-line="20" />
               </first_editor>
               <second_editor />
             </state>
@@ -238,7 +238,7 @@
       <option name="presentableId" value="Default" />
       <updated>1558114912266</updated>
       <workItem from="1558114915981" duration="36000" />
-      <workItem from="1558114961849" duration="8569000" />
+      <workItem from="1558114961849" duration="8723000" />
     </task>
     <task id="LOCAL-00001" summary="&#10;Added README">
       <created>1558123262575</created>
@@ -275,11 +275,25 @@
       <option name="project" value="LOCAL" />
       <updated>1558125413905</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="&#10;Added README">
+      <created>1558125441470</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1558125441470</updated>
+    </task>
+    <task id="LOCAL-00007" summary="&#10;Added README">
+      <created>1558125573939</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1558125573940</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8605000" />
+    <option name="totallyTimeSpent" value="8759000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
@@ -399,8 +413,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" column="66" selection-start-line="1" selection-start-column="66" selection-end-line="1" selection-end-column="66" />
+          <first_editor relative-caret-position="300">
+            <caret line="20" selection-start-line="20" selection-end-line="20" />
           </first_editor>
           <second_editor />
         </state>
