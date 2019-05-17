@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2f38458-75b6-4768-9a45-736d34afd4c6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,8 +47,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="58" selection-start-column="58" selection-end-column="58" />
+              <first_editor relative-caret-position="15">
+                <caret line="1" column="66" selection-start-line="1" selection-start-column="66" selection-end-line="1" selection-end-column="66" />
               </first_editor>
               <second_editor />
             </state>
@@ -237,7 +238,7 @@
       <option name="presentableId" value="Default" />
       <updated>1558114912266</updated>
       <workItem from="1558114915981" duration="36000" />
-      <workItem from="1558114961849" duration="8354000" />
+      <workItem from="1558114961849" duration="8569000" />
     </task>
     <task id="LOCAL-00001" summary="&#10;Added README">
       <created>1558123262575</created>
@@ -260,11 +261,25 @@
       <option name="project" value="LOCAL" />
       <updated>1558125166529</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&#10;Added README">
+      <created>1558125239685</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1558125239685</updated>
+    </task>
+    <task id="LOCAL-00005" summary="&#10;Added README">
+      <created>1558125413905</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1558125413905</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8390000" />
+    <option name="totallyTimeSpent" value="8605000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
@@ -384,8 +399,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="58" selection-start-column="58" selection-end-column="58" />
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="66" selection-start-line="1" selection-start-column="66" selection-end-line="1" selection-end-column="66" />
           </first_editor>
           <second_editor />
         </state>

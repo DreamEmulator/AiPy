@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="server/img/OWLI_transparent.png" height="50" width="50" title="Owli sees all">
+  <img src="server/img/OWLI_transparent.png" height="250" width="250" title="Owli sees all">
 </p>
 # How to start AiPy
 
