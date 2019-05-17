@@ -1,4 +1,4 @@
-![Alt text](server/img/OWLI_transparent.png?raw=true "Title")
+![Alt text](server/img/OWLI_transparent.png?raw=true "Owli")
 # How to start AiPy
 
 1: Make a new project in PyCharm
