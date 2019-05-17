@@ -1,4 +1,6 @@
-![Alt text](server/img/OWLI_transparent.png?raw=true "Owli")
+<p align="center">
+  <img src="server/img/OWLI_transparent.png" height="50" width="50" title="Owli sees all">
+</p>
 # How to start AiPy
 
 1: Make a new project in PyCharm
